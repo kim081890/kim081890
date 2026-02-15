@@ -1,40 +1,28 @@
 <div align="center">
 
-<!-- MATRIX RAIN BANNER - This SVG file must be in your repo -->
 <img src="./matrix-rain.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Wake+up%2C+Kim...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Knock+knock%2C+Neo...;DevOps+Engineer+in+Training+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Wake+up%2C+Kim...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;DevOps+Engineer+in+Training+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🖥️ `> whoami`
+<h2>🖥️ About Me</h2>
 
-```python
-class TheOne:
-    def __init__(self):
-        self.name = "Kim Kutrovacz"
-        self.role = "DevOps Engineer in Training"
-        self.school = "312 School — Batch 25c"
-        self.location = "Chicago, IL"
-        self.mission = "Automate everything. Break nothing. Learn daily."
-        self.skills = {
-            "cloud":       "AWS (EC2, IAM, RDS, S3, VPC, CloudWatch, Lambda)",
-            "iac":         "Terraform (Modules, State, Variables)",
-            "scripting":   "Python, Bash",
-            "version_ctrl": "Git, GitHub, GitHub Actions",
-            "os":          "Linux System Administration",
-            "ci_cd":       "GitHub Actions, Pipelines"
-        }
+**Name:** Kim Kutrovacz
 
-    def take_the_red_pill(self):
-        return "I'm learning how deep the DevOps rabbit hole goes..."
-```
+**Role:** DevOps Engineer in Training
+
+**School:** 312 School — Batch 25c
+
+**Location:** Chicago, IL
+
+**Mission:** Automate everything. Break nothing. Learn daily.
 
 ---
 
-## 🛠️ `> cat /etc/arsenal`
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -52,7 +40,7 @@ class TheOne:
 
 ---
 
-## 📊 `> git log --stats`
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -64,36 +52,21 @@ class TheOne:
 
 ---
 
-## 🌱 `> ./training_program.sh`
+<h2>🌱 Currently Learning</h2>
 
-```bash
-#!/bin/bash
-# Kim's DevOps Training — The Matrix Simulation
-
-echo "Initiating training program..."
-echo ""
-
-MODULES=(
-  "[■■■■■■■■■■] ☁️  AWS Cloud Services"
-  "[■■■■■■■■░░] 🏗️  Terraform IaC"
-  "[■■■■■■■░░░] 🐍  Python Scripting"
-  "[■■■■■■■■■░] 🔀  Git & GitHub"
-  "[■■■■■■■■░░] 🐧  Linux Admin"
-  "[■■■■■░░░░░] 🔄  CI/CD Pipelines"
-  "[■■■■░░░░░░] 🐳  Docker & Containers"
-)
-
-for module in "${MODULES[@]}"; do
-  echo "  $module"
-done
-
-echo ""
-echo "  STATUS: I know kung fu. 🥋"
-```
+| Skill | Progress |
+|---|---|
+| ☁️ **AWS Cloud Services** — EC2, IAM, RDS, S3, VPC, CloudWatch, Lambda | ██████████░░ 80% |
+| 🏗️ **Terraform IaC** — Modules, State Management, Variables | ████████░░░░ 70% |
+| 🐍 **Python Scripting** — Automation, Data Structures | ███████░░░░░ 60% |
+| 🔀 **Git & GitHub** — Branching, PRs, Actions, Branch Protection | █████████░░░ 80% |
+| 🐧 **Linux Admin** — System Admin, Bash Scripting, Cron Jobs | ████████░░░░ 70% |
+| 🔄 **CI/CD Pipelines** — GitHub Actions | █████░░░░░░░ 40% |
+| 🐳 **Docker & Containers** | ████░░░░░░░░ 30% |
 
 ---
 
-## 📫 `> cat /etc/contact`
+<h2>📫 Connect With Me</h2>
 
 <div align="center">
 
@@ -106,9 +79,7 @@ echo "  STATUS: I know kung fu. 🥋"
 
 <div align="center">
 
-```
-"There is no spoon." — The Matrix (1999)
-```
+*"There is no spoon." — The Matrix (1999)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:00FF00&section=footer"/>
 
